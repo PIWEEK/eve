@@ -1,0 +1,12 @@
+[submodule "eve-auth"]
+	path = eve-auth
+	url = git@github.com:PIWEEK/eve-auth.git
+[submodule "eve-back"]
+	path = eve-back
+	url = git@github.com:PIWEEK/eve-back.git
+[submodule "eve-front"]
+	path = eve-front
+	url = git@github.com:PIWEEK/eve-front.git
+[submodule "eve-mobile"]
+	path = eve-mobile
+	url = git@github.com:PIWEEK/eve-mobile.git
