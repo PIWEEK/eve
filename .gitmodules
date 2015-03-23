@@ -10,3 +10,7 @@
 [submodule "eve-mobile"]
 	path = eve-mobile
 	url = git@github.com:PIWEEK/eve-mobile.git
+[submodule "eve-back-grails"]
+        path = eve-back-grails
+        url = git@github.com:PIWEEK/eve-back-grails.git
+
